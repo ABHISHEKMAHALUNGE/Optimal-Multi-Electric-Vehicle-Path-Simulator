@@ -1,12 +1,3 @@
-# AIFA Project
-
-Group project for assignment #1 of the Artificial Intelligence - Foundations and Applications course (AI61005).
-
-
-
-## Project Description
-
-We opted to take the third option in the given projects - Electric Vehicles.
 
 # Usage
 
