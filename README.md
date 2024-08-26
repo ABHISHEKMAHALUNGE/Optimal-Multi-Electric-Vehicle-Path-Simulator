@@ -1,7 +1,7 @@
 
 # Usage
 
-To download this repository, simply navigate to the command line and type `sudo git clone https://github.com/PartMan7/AIFA.git` for MAC/ Linux or type `git clone https://github.com/PartMan7/AIFA.git` for Windows. Alternatively, you may click the green Download button at the top right of the screen and unzip the downloaded file. You may also view a live version of these pages at http://partbot.partman.co.in/aifa/simple or http://partbot.partman.co.in/aifa/heuristic.
+To download this repository, simply navigate to the command line and type `sudo git clone https://github.com/ABHISHEKMAHALUNGE/Optimal-Multi-Electric-Vehicle-Path-Simulator.git` for MAC/ Linux or type `git clone https://github.com/ABHISHEKMAHALUNGE/Optimal-Multi-Electric-Vehicle-Path-Simulator.git` for Windows. Alternatively, you may click the green Download button at the top right of the screen and unzip the downloaded file. 
 
 The entire project can be run as a single HTML file. Simply open the file with any recent version of a modern browser (tested on Firefox, Chrome and MS Edge).
 The project may be operated in two modes - `sample` and `user`. `Sample` mode runs on a pre-supplied sample (data may be seen in the file itself). Do note that in this mode, buttons and text inputs have no effect on the operation of the script. `User` mode, on the other hand, relies on a given user input - you will be required to manually enter all the details of the vehicles, nodes, and edges.
