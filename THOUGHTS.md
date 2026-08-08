@@ -47,6 +47,3 @@ I would sincerely like to thank w3schools for their CANVAS tutorials and MDN for
 I would also like to thank the vehicles for driving safely and ensuring that their batteries have enough power left to cover edges, so that they don't break down midway.
 
 And of course, I'd like to thank our professors ~~without whom this project would never have happened in the first place~~.
-
-  Parth Mane
-  19MF10022
